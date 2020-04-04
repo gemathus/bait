@@ -1,0 +1,1 @@
+from bait.core.entities.base_entity import BaseEntity

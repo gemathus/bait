@@ -1,0 +1,3 @@
+from bait.infrastructure.repositories.memory.base_memory_repo import BaseMemoryRepo
+from bait.infrastructure.repositories.memory.help_tickets_repo import HelpTicketsRepo
+from bait.infrastructure.repositories.memory.condominiums_repo import CondominiumsRepo
